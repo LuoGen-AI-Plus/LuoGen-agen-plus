@@ -137,7 +137,7 @@ project-root/
 ## 📖 联系交流-799元购买成品软件、9.9元试用、白票勿扰
 
 > 可联系交流wx：
-![UI 界面预览](Contact_wx.png)
+![UI 界面预览](Contact_wx7.png)
 
 ---
 ## ⚠️ 已知限制
